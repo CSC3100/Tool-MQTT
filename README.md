@@ -99,6 +99,9 @@ A **Runnable** and **MqttCallback** that connects to the broker and subscribes t
 ## 🏞️ Class Diagram
 A drafted class diagram of the current release is as follows:
 
+<img width="989" height="610" alt="Class Diagram0" src="https://github.com/user-attachments/assets/eaeb2ff2-f452-4c37-af8d-aab16f076a6a" />
+
+
 <p align="center">
 <img width="600" src="https://github.com/CSC3100/MQTT/assets/3814755/b621ae2a-662c-4dae-993b-731617546fde">
 </p>
